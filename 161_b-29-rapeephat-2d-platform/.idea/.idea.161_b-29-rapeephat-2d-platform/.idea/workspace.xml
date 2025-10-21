@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d45ab002-0f98-4285-87ac-816973b7fd9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.161_b-29-rapeephat-2d-platform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.161_b-29-rapeephat-2d-platform/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ant.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Crocodile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Crocodile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761034634146</updated>
-      <workItem from="1761034635242" duration="2920000" />
+      <workItem from="1761034635242" duration="3546000" />
     </task>
     <servers />
   </component>
