@@ -5,17 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d45ab002-0f98-4285-87ac-816973b7fd9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.161_b-29-rapeephat-2d-platform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.161_b-29-rapeephat-2d-platform/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/450314174_419564214416396_1289458219632821005_n.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/450314174_419564214416396_1289458219632821005_n.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/558989887_800810999438381_2791283451499727065_n.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/558989887_800810999438381_2791283451499727065_n.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BG.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Erm Actually Cat.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Erm Actually Cat.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FB_IMG_1704356125430.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FB_IMG_1704356125430.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG_3932.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG_3932.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Banana.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Banana.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crocodile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crocodile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rock.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Crocodile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Crocodile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Banana.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IShootable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="34MsAZZXDqHkUwKyYJ2uWducCMb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,7 +66,7 @@
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.2f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath D:\PPPPPPPPPPPPPPPP\git\gi161-29-rapeephat-2d-platform\161_b-29-rapeephat-2d-platform -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\PPPPPPPPPPPPPPPP\git\gi161-29-rapeephat-2d-platform\161_b-29-rapeephat-2d-platform" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -51,7 +74,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.2f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\PPPPPPPPPPPPPPPP\git\gi161-29-rapeephat-2d-platform\161_b-29-rapeephat-2d-platform -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\PPPPPPPPPPPPPPPP\git\gi161-29-rapeephat-2d-platform\161_b-29-rapeephat-2d-platform" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -87,7 +110,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761034634146</updated>
-      <workItem from="1761034635242" duration="3546000" />
+      <workItem from="1761034635242" duration="4591000" />
+      <workItem from="1761637894069" duration="7666000" />
     </task>
     <servers />
   </component>
