@@ -8,7 +8,7 @@ public class Crocodile : Enemy, IShootable
     void Start()
     {
         base.Innitialize(50);
-        DamageHit = 30;
+        DamageHit = 15;
         //set atk range and target
         atkRange = 6.0f;
         player = GameObject.FindFirstObjectByType<Player>();

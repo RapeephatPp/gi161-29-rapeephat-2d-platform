@@ -8,7 +8,7 @@ public class Player : Character, IShootable
     void Start()
     {
         base.Innitialize(100); // set player HP
-        ReloadTime = 1.0f;
+        ReloadTime = 0.2f;
         WaitTime = 0.0f;
     }
 
